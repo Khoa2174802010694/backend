@@ -1,4 +1,4 @@
-const Repository = require('./../../repositories/WorkPreferencesRepository');
+const Repository = require('./../../repositories/workPreferencesRepository');
 
 const WorkPreferencesService = {
 
