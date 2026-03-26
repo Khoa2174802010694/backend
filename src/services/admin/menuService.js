@@ -1,4 +1,4 @@
-const MenuRepository = require('./../../repositories/menuRepository');
+const MenuRepository = require('../../repositories/menuRepository');
 
 const MenuService = {
     getAll: async (page, pageSize, name) => {
